@@ -1,0 +1,7 @@
+.home__bg {
+  background-image: url(../img/bike.jpg);
+  background-color: black;
+  background-size: cover;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
