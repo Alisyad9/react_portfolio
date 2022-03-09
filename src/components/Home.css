@@ -1,7 +1,42 @@
 .home__bg {
-  background-image: url(../img/bike.jpg);
+  background-image: url(../img/bg2.jpg);
   background-color: black;
   background-size: cover;
-  background-position: 50%;
+  background-position: center;
   background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+li.nav__items {
+  font-size: 18px;
+  padding: 15px;
+}
+.home__content {
+  padding: 125px 0px;
+}
+h1.home__text {
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 3px;
+  color: white;
+  text-transform: uppercase;
+}
+h2.home__text {
+  font-size: 3rem;
+  line-height: 40px;
+  font-weight: 900;
+  font-family: montserrat, sans-serif;
+  color: black;
+}
+h3.home__text {
+  font-size: 2rem;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: montserrat, sans-serif;
+}
+h4.home__text {
+  font-size: 2rem;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: montserrat, sans-serif;
 }
