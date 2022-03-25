@@ -8,6 +8,7 @@ function About() {
   //     <h1>About</h1>
   //   </div>
   // );
+  const countries = ['England', 'France', 'Germany', 'USA'];
   const [email, setEmail] = React.useState('');
   const [password, setPassword] = React.useState('');
   const [country, setCountry] = React.useState('');
